@@ -2,7 +2,7 @@
 rweqtitle: "Practical Machine Learning Project"
 author: "Rong Cai"
 date: "November 25, 2016"
-output: html_document
+output: md_document
 ---
 
 ##Practical Machine Learning Project
